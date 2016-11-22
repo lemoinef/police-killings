@@ -1,8 +1,9 @@
 # Project: Analyzing Police Killings
 
-In this project, we'll be working with Jupyter notebook, and analyzing data on police killings. Due in part to recent high-profile shootings of civilians by police in the US, the media and public have been scrutinizing police killings heavily. If you browse social media and news sites, you may get the sense that there's been a large uptick in civilian shootings by police in the US. We'll investigate the data. 
+In this project, we'll be working with Jupyter notebook, and analyzing data on police killings. Due in part to recent high-profile shootings of civilians by police in the US, the media and public have been scrutinizing police killings heavily. If we browse social media and news sites, we may get the sense that there's been a large uptick in civilian shootings by police in the US. The team at FiveThirtyEight has data on [the subject](https://github.com/fivethirtyeight/data/tree/master/police-killings). We'll investigate that data. 
 
-The team at FiveThirtyEight has data on [the subject](https://github.com/fivethirtyeight/data/tree/master/police-killings). 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
 
 ## Install
 This project requires Python 3 and the following Python libraries installed:
